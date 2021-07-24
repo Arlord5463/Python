@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f0a34f6-4cc8-483e-98e0-54dacae4fc6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Informatics/Task3535.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Math Operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/Task2942.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task2942.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/Task2943.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task2943.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGame/Pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task2950.py" afterDir="false" />
-    </list>
+    <list default="true" id="2f0a34f6-4cc8-483e-98e0-54dacae4fc6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +38,7 @@
       <recent name="$PROJECT_DIR$/Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task2950">
+  <component name="RunManager" selected="Python.Task3535">
     <configuration name="Math Operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,8 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task2950" />
         <item itemvalue="Python.Task3535" />
+        <item itemvalue="Python.Task2950" />
         <item itemvalue="Python.Math Operations" />
         <item itemvalue="Python.Task2943" />
         <item itemvalue="Python.Task2942" />
