@@ -1,8 +1,4 @@
-a = int(input())
-b = int(input())
-n = int(input())
-a *= n
-b *= n
-a += b // 100
-b %= 100
-print(a, b)
+a = int(input())  # Рубли
+b = int(input())  # Копейки
+n = int(input())  # Кол-во
+print(a * n + b * n // 100, b * n % 100)
