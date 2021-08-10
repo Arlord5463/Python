@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0a34f6-4cc8-483e-98e0-54dacae4fc6f" name="Default Changelist" comment="ee">
-      <change afterPath="$PROJECT_DIR$/Informatics/Task266.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Informatics/Task295 error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Informatics/Task2961.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/Task255 error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task255.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +173,6 @@
       <list>
         <item itemvalue="Python.Task2961" />
         <item itemvalue="Python.Task266" />
-        <item itemvalue="Python.Task255 error" />
         <item itemvalue="Python.Task254" />
         <item itemvalue="Python.Task2959" />
       </list>
