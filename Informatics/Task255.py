@@ -1,8 +1,8 @@
-line = int(input())
-column = int(input())
-line2 = int(input())
-column2 = int(input())
-if line - line2 == column - column2 or line - line2 == column2 - column:
-    print('YES')
-else:
-    print('NO')
+n = int(input())
+c = int(1)
+for i in range(1, n):
+    for j in range(i):
+        if c > n:
+            break
+        print(i, end='')
+        c += 1
