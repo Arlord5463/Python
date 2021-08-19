@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0a34f6-4cc8-483e-98e0-54dacae4fc6f" name="Default Changelist" comment="ee">
-      <change afterPath="$PROJECT_DIR$/Informatics/Task315.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Informatics/Task321.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Informatics/Task351.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Strinf_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Informatics/Task320.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Informatics/Task353.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/Task255.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task255.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatics/Task295 error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatics/Task295.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stepik/1.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stepik/1.12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
       <recent name="$PROJECT_DIR$/Informatics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task255">
+  <component name="RunManager" selected="Python.Task353">
     <configuration name="1.12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task315" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task320" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatics/Task315.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatics/Task320.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task351" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task353" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatics/Task351.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatics/Task353.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task255" />
+        <item itemvalue="Python.Task353" />
+        <item itemvalue="Python.Task320" />
         <item itemvalue="Python.1.12" />
+        <item itemvalue="Python.Task255" />
         <item itemvalue="Python.Task321" />
-        <item itemvalue="Python.Task315" />
-        <item itemvalue="Python.Task351" />
       </list>
     </recent_temporary>
   </component>
