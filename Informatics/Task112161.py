@@ -9,4 +9,8 @@ elif 6 <= a <= 8:
 elif 9 <= a <= 11:
     print('autumn')
 else:
+
+
+
+    
     print('NO')
